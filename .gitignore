@@ -1,0 +1,26 @@
+# node modules and logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite cache
+dist/
+.vite/
+
+# local env files
+.env
+.env.local
+.env.*.local
+
+# Editor files
+.vscode/
+.idea/
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Optional: lock files if using yarn or pnpm instead of npm
+pnpm-lock.yaml
+yarn.lock
